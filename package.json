@@ -12,7 +12,6 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
     "react-scripts": "5.0.1",
-    "react-three": "^0.9.7",
     "react-tsparticles": "^2.12.2",
     "tsparticles": "^3.5.0",
     "tsparticles-slim": "^2.12.0",
